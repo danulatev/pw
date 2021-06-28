@@ -62,7 +62,9 @@ p {
   position: relative;
   /* why is it relative? see notes below for .top-cloud and .bototm-cloud */
 }
-
+.a-locales {
+  margin-left: 2px;
+}
 .intro {
   width:30%;
   margin:auto;
